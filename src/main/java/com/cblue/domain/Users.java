@@ -2,7 +2,7 @@ package com.cblue.domain;
 
 public class Users {
     private Integer id;
-
+    private String name1;   
     private String name;
 
     public Integer getId() {
